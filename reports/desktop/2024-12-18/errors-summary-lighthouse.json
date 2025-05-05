@@ -1,1 +1,11 @@
-{}
+{
+  "target-size": 1375,
+  "button-name": 458,
+  "image-alt": 191,
+  "label": 191,
+  "heading-order": 69,
+  "color-contrast": 60,
+  "link-name": 25,
+  "frame-title": 11,
+  "td-has-header": 1
+}
